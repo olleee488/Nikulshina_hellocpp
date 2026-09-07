@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Nikulshina_AS_04/Nikulshina_AS_04.vcxproj" />
+</Solution>
